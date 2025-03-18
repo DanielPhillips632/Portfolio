@@ -6,8 +6,10 @@ Hello there! Here are just a few of my projects:
 
 1. [2D Scrolling Game using C++](https://github.com/DanielPhillips632/2DScrollingGame.git)
 
-2. [Android Google Maps App using Java (APK Only)](https://github.com/DanielPhillips632/GoogleMapsApp.git)
+2. [Android Google Maps App using Java](https://github.com/DanielPhillips632/GoogleMapsApp.git)
 
 3. [Flower Image Segmentation using MATLAB](https://github.com/DanielPhillips632/FlowerImageSegmentation.git)
 
 4. [Evolutionary Pac-Man Agent using Python](https://github.com/DanielPhillips632/PacManAgent.git)
+
+5. [Boss Fight Game using Lua, in the Defold engine](https://github.com/DanielPhillips632/BossFightShooter.git)
